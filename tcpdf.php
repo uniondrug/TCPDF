@@ -3200,7 +3200,7 @@ class TCPDF {
 		// mark this point
 		$this->setPageMark();
 		// print page header
-		$this->setHeader();
+		//$this->setHeader();
 		// restore graphic settings
 		$this->setGraphicVars($gvars);
 		// mark this point
