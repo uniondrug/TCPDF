@@ -1,16 +1,10 @@
 {
   "name": "uniondrug/tcpdf",
-  "homepage": "http://www.tcpdf.org/",
   "type": "library",
   "description": "TCPDF is a PHP class for generating PDF documents and barcodes.",
   "keywords": [
     "PDF",
-    "tcpdf",
-    "PDFD32000-2008",
-    "qrcode",
-    "datamatrix",
-    "pdf417",
-    "barcodes"
+    "tcpdf"
   ],
   "license": "LGPL-3.0",
   "authors": [
